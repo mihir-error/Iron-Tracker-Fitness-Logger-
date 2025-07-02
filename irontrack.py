@@ -18,11 +18,13 @@ DEFAULT_CATEGORIES = {
 
 
 
-def get_data_file_path():
+#def get_data_file_path():
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    parent_dir = os.path.dirname(script_dir)
-    return os.path.join(parent_dir, DATA_FILENAME)
+#    parent_dir = os.path.dirname(script_dir)
+#    return os.path.join(parent_dir, DATA_FILENAME)
+def get_data_file_path():
+    return os.path.join(os.path.dirname(__file__), DATA_FILENAME)
+
 
 
 @st.cache_data(ttl=1)  # Cache for 1 second to ensure frequent re-reads
@@ -181,9 +183,13 @@ if not os.path.exists(DATA_FILE_ABS_PATH_INIT):
     df_init = pd.concat([df_init, pd.DataFrame(rows)], ignore_index=True)
     df_init.to_csv(DATA_FILE_ABS_PATH_INIT, index=False)
 
+
 # --- Streamlit UI Layout ---
 st.set_page_config(page_title="IronTracker", layout="wide")
 st.title("🏋️ IronTracker - Workout Logger")
+
+#st.write("📋 Debug: Loaded workout data from CSV:")
+#st.dataframe(load_data())
 
 # Sidebar Navigation
 menu = st.sidebar.radio("Navigate", ["Log Workout", "View Workouts", "Add Custom Exercise", "View Progress"])
