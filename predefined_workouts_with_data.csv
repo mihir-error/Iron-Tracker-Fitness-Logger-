@@ -1,0 +1,866 @@
+date,category,exercise,weight,reps
+2025-02-03,Chest,Barbell Bench Press,40.0,10
+2025-02-03,Chest,Barbell Bench Press,40.0,10
+2025-02-03,Chest,Barbell Bench Press,40.0,10
+2025-02-03,Chest,Incline Dumbbell Press,15.0,9
+2025-02-03,Chest,Incline Dumbbell Press,15.0,9
+2025-02-03,Chest,Incline Dumbbell Press,15.0,9
+2025-02-03,Chest,Dumbbell Fly,10.0,12
+2025-02-03,Chest,Dumbbell Fly,10.0,12
+2025-02-03,Chest,Dumbbell Fly,10.0,12
+2025-02-03,Chest,Push Ups,0.0,12
+2025-02-03,Chest,Push Ups,0.0,12
+2025-02-03,Chest,Push Ups,0.0,12
+2025-02-04,Legs,Barbell Squat,50.0,9
+2025-02-04,Legs,Barbell Squat,50.0,9
+2025-02-04,Legs,Barbell Squat,50.0,9
+2025-02-04,Legs,Leg Press,80.0,11
+2025-02-04,Legs,Leg Press,80.0,11
+2025-02-04,Legs,Leg Press,80.0,11
+2025-02-04,Legs,Romanian Deadlift,30.0,10
+2025-02-04,Legs,Romanian Deadlift,30.0,10
+2025-02-04,Legs,Romanian Deadlift,30.0,10
+2025-02-04,Legs,Leg Extension,20.0,12
+2025-02-04,Legs,Leg Extension,20.0,12
+2025-02-04,Legs,Leg Extension,20.0,12
+2025-02-04,Legs,Calf Raises,30.0,10
+2025-02-04,Legs,Calf Raises,30.0,10
+2025-02-04,Legs,Calf Raises,30.0,10
+2025-02-06,Back,Pull Ups,0.0,8
+2025-02-06,Back,Pull Ups,0.0,8
+2025-02-06,Back,Pull Ups,0.0,8
+2025-02-06,Back,Barbell Row,35.0,12
+2025-02-06,Back,Barbell Row,35.0,12
+2025-02-06,Back,Barbell Row,35.0,12
+2025-02-06,Back,Seated Cable Row,30.0,10
+2025-02-06,Back,Seated Cable Row,30.0,10
+2025-02-06,Back,Seated Cable Row,30.0,10
+2025-02-06,Back,Face Pulls,10.0,12
+2025-02-06,Back,Face Pulls,10.0,12
+2025-02-06,Back,Face Pulls,10.0,12
+2025-02-07,Shoulders,Overhead Press,20.0,11
+2025-02-07,Shoulders,Overhead Press,20.0,11
+2025-02-07,Shoulders,Overhead Press,20.0,11
+2025-02-07,Shoulders,Lateral Raise,5.0,11
+2025-02-07,Shoulders,Lateral Raise,5.0,11
+2025-02-07,Shoulders,Lateral Raise,5.0,11
+2025-02-07,Shoulders,Dumbbell Bicep Curl,8.0,8
+2025-02-07,Shoulders,Dumbbell Bicep Curl,8.0,8
+2025-02-07,Shoulders,Dumbbell Bicep Curl,8.0,8
+2025-02-07,Shoulders,Tricep Pushdown,15.0,8
+2025-02-07,Shoulders,Tricep Pushdown,15.0,8
+2025-02-07,Shoulders,Tricep Pushdown,15.0,8
+2025-02-07,Shoulders,Hammer Curls,7.0,10
+2025-02-07,Shoulders,Hammer Curls,7.0,10
+2025-02-07,Shoulders,Hammer Curls,7.0,10
+2025-02-10,Chest,Barbell Bench Press,40.0,12
+2025-02-10,Chest,Barbell Bench Press,40.0,12
+2025-02-10,Chest,Barbell Bench Press,40.0,12
+2025-02-10,Chest,Incline Dumbbell Press,15.0,10
+2025-02-10,Chest,Incline Dumbbell Press,15.0,10
+2025-02-10,Chest,Incline Dumbbell Press,15.0,10
+2025-02-10,Chest,Dumbbell Fly,10.0,8
+2025-02-10,Chest,Dumbbell Fly,10.0,8
+2025-02-10,Chest,Dumbbell Fly,10.0,8
+2025-02-10,Chest,Push Ups,0.0,11
+2025-02-10,Chest,Push Ups,0.0,11
+2025-02-10,Chest,Push Ups,0.0,11
+2025-02-11,Legs,Barbell Squat,50.0,12
+2025-02-11,Legs,Barbell Squat,50.0,12
+2025-02-11,Legs,Barbell Squat,50.0,12
+2025-02-11,Legs,Leg Press,80.0,9
+2025-02-11,Legs,Leg Press,80.0,9
+2025-02-11,Legs,Leg Press,80.0,9
+2025-02-11,Legs,Romanian Deadlift,30.0,8
+2025-02-11,Legs,Romanian Deadlift,30.0,8
+2025-02-11,Legs,Romanian Deadlift,30.0,8
+2025-02-11,Legs,Leg Extension,20.0,9
+2025-02-11,Legs,Leg Extension,20.0,9
+2025-02-11,Legs,Leg Extension,20.0,9
+2025-02-11,Legs,Calf Raises,30.0,9
+2025-02-11,Legs,Calf Raises,30.0,9
+2025-02-11,Legs,Calf Raises,30.0,9
+2025-02-13,Back,Pull Ups,0.0,9
+2025-02-13,Back,Pull Ups,0.0,9
+2025-02-13,Back,Pull Ups,0.0,9
+2025-02-13,Back,Barbell Row,35.0,10
+2025-02-13,Back,Barbell Row,35.0,10
+2025-02-13,Back,Barbell Row,35.0,10
+2025-02-13,Back,Seated Cable Row,30.0,9
+2025-02-13,Back,Seated Cable Row,30.0,9
+2025-02-13,Back,Seated Cable Row,30.0,9
+2025-02-13,Back,Face Pulls,10.0,9
+2025-02-13,Back,Face Pulls,10.0,9
+2025-02-13,Back,Face Pulls,10.0,9
+2025-02-14,Shoulders,Overhead Press,20.0,9
+2025-02-14,Shoulders,Overhead Press,20.0,9
+2025-02-14,Shoulders,Overhead Press,20.0,9
+2025-02-14,Shoulders,Lateral Raise,5.0,10
+2025-02-14,Shoulders,Lateral Raise,5.0,10
+2025-02-14,Shoulders,Lateral Raise,5.0,10
+2025-02-14,Shoulders,Dumbbell Bicep Curl,8.0,12
+2025-02-14,Shoulders,Dumbbell Bicep Curl,8.0,12
+2025-02-14,Shoulders,Dumbbell Bicep Curl,8.0,12
+2025-02-14,Shoulders,Tricep Pushdown,15.0,11
+2025-02-14,Shoulders,Tricep Pushdown,15.0,11
+2025-02-14,Shoulders,Tricep Pushdown,15.0,11
+2025-02-14,Shoulders,Hammer Curls,7.0,12
+2025-02-14,Shoulders,Hammer Curls,7.0,12
+2025-02-14,Shoulders,Hammer Curls,7.0,12
+2025-02-17,Chest,Barbell Bench Press,42.5,10
+2025-02-17,Chest,Barbell Bench Press,42.5,10
+2025-02-17,Chest,Barbell Bench Press,42.5,10
+2025-02-17,Chest,Incline Dumbbell Press,17.5,10
+2025-02-17,Chest,Incline Dumbbell Press,17.5,10
+2025-02-17,Chest,Incline Dumbbell Press,17.5,10
+2025-02-17,Chest,Dumbbell Fly,12.5,9
+2025-02-17,Chest,Dumbbell Fly,12.5,9
+2025-02-17,Chest,Dumbbell Fly,12.5,9
+2025-02-17,Chest,Push Ups,0.0,9
+2025-02-17,Chest,Push Ups,0.0,9
+2025-02-17,Chest,Push Ups,0.0,9
+2025-02-18,Legs,Barbell Squat,52.5,9
+2025-02-18,Legs,Barbell Squat,52.5,9
+2025-02-18,Legs,Barbell Squat,52.5,9
+2025-02-18,Legs,Leg Press,82.5,12
+2025-02-18,Legs,Leg Press,82.5,12
+2025-02-18,Legs,Leg Press,82.5,12
+2025-02-18,Legs,Romanian Deadlift,32.5,11
+2025-02-18,Legs,Romanian Deadlift,32.5,11
+2025-02-18,Legs,Romanian Deadlift,32.5,11
+2025-02-18,Legs,Leg Extension,22.5,10
+2025-02-18,Legs,Leg Extension,22.5,10
+2025-02-18,Legs,Leg Extension,22.5,10
+2025-02-18,Legs,Calf Raises,32.5,12
+2025-02-18,Legs,Calf Raises,32.5,12
+2025-02-18,Legs,Calf Raises,32.5,12
+2025-02-20,Back,Pull Ups,0.0,10
+2025-02-20,Back,Pull Ups,0.0,10
+2025-02-20,Back,Pull Ups,0.0,10
+2025-02-20,Back,Barbell Row,37.5,9
+2025-02-20,Back,Barbell Row,37.5,9
+2025-02-20,Back,Barbell Row,37.5,9
+2025-02-20,Back,Seated Cable Row,32.5,9
+2025-02-20,Back,Seated Cable Row,32.5,9
+2025-02-20,Back,Seated Cable Row,32.5,9
+2025-02-20,Back,Face Pulls,12.5,11
+2025-02-20,Back,Face Pulls,12.5,11
+2025-02-20,Back,Face Pulls,12.5,11
+2025-02-21,Shoulders,Overhead Press,22.5,9
+2025-02-21,Shoulders,Overhead Press,22.5,9
+2025-02-21,Shoulders,Overhead Press,22.5,9
+2025-02-21,Shoulders,Lateral Raise,7.5,8
+2025-02-21,Shoulders,Lateral Raise,7.5,8
+2025-02-21,Shoulders,Lateral Raise,7.5,8
+2025-02-21,Shoulders,Dumbbell Bicep Curl,10.5,12
+2025-02-21,Shoulders,Dumbbell Bicep Curl,10.5,12
+2025-02-21,Shoulders,Dumbbell Bicep Curl,10.5,12
+2025-02-21,Shoulders,Tricep Pushdown,17.5,9
+2025-02-21,Shoulders,Tricep Pushdown,17.5,9
+2025-02-21,Shoulders,Tricep Pushdown,17.5,9
+2025-02-21,Shoulders,Hammer Curls,9.5,9
+2025-02-21,Shoulders,Hammer Curls,9.5,9
+2025-02-21,Shoulders,Hammer Curls,9.5,9
+2025-02-24,Chest,Barbell Bench Press,42.5,12
+2025-02-24,Chest,Barbell Bench Press,42.5,12
+2025-02-24,Chest,Barbell Bench Press,42.5,12
+2025-02-24,Chest,Incline Dumbbell Press,17.5,9
+2025-02-24,Chest,Incline Dumbbell Press,17.5,9
+2025-02-24,Chest,Incline Dumbbell Press,17.5,9
+2025-02-24,Chest,Dumbbell Fly,12.5,10
+2025-02-24,Chest,Dumbbell Fly,12.5,10
+2025-02-24,Chest,Dumbbell Fly,12.5,10
+2025-02-24,Chest,Push Ups,0.0,11
+2025-02-24,Chest,Push Ups,0.0,11
+2025-02-24,Chest,Push Ups,0.0,11
+2025-02-25,Legs,Barbell Squat,52.5,10
+2025-02-25,Legs,Barbell Squat,52.5,10
+2025-02-25,Legs,Barbell Squat,52.5,10
+2025-02-25,Legs,Leg Press,82.5,10
+2025-02-25,Legs,Leg Press,82.5,10
+2025-02-25,Legs,Leg Press,82.5,10
+2025-02-25,Legs,Romanian Deadlift,32.5,8
+2025-02-25,Legs,Romanian Deadlift,32.5,8
+2025-02-25,Legs,Romanian Deadlift,32.5,8
+2025-02-25,Legs,Leg Extension,22.5,12
+2025-02-25,Legs,Leg Extension,22.5,12
+2025-02-25,Legs,Leg Extension,22.5,12
+2025-02-25,Legs,Calf Raises,32.5,10
+2025-02-25,Legs,Calf Raises,32.5,10
+2025-02-25,Legs,Calf Raises,32.5,10
+2025-02-27,Back,Pull Ups,0.0,9
+2025-02-27,Back,Pull Ups,0.0,9
+2025-02-27,Back,Pull Ups,0.0,9
+2025-02-27,Back,Barbell Row,37.5,9
+2025-02-27,Back,Barbell Row,37.5,9
+2025-02-27,Back,Barbell Row,37.5,9
+2025-02-27,Back,Seated Cable Row,32.5,11
+2025-02-27,Back,Seated Cable Row,32.5,11
+2025-02-27,Back,Seated Cable Row,32.5,11
+2025-02-27,Back,Face Pulls,12.5,9
+2025-02-27,Back,Face Pulls,12.5,9
+2025-02-27,Back,Face Pulls,12.5,9
+2025-02-28,Shoulders,Overhead Press,22.5,11
+2025-02-28,Shoulders,Overhead Press,22.5,11
+2025-02-28,Shoulders,Overhead Press,22.5,11
+2025-02-28,Shoulders,Lateral Raise,7.5,10
+2025-02-28,Shoulders,Lateral Raise,7.5,10
+2025-02-28,Shoulders,Lateral Raise,7.5,10
+2025-02-28,Shoulders,Dumbbell Bicep Curl,10.5,8
+2025-02-28,Shoulders,Dumbbell Bicep Curl,10.5,8
+2025-02-28,Shoulders,Dumbbell Bicep Curl,10.5,8
+2025-02-28,Shoulders,Tricep Pushdown,17.5,9
+2025-02-28,Shoulders,Tricep Pushdown,17.5,9
+2025-02-28,Shoulders,Tricep Pushdown,17.5,9
+2025-02-28,Shoulders,Hammer Curls,9.5,9
+2025-02-28,Shoulders,Hammer Curls,9.5,9
+2025-02-28,Shoulders,Hammer Curls,9.5,9
+2025-03-03,Chest,Barbell Bench Press,45.0,12
+2025-03-03,Chest,Barbell Bench Press,45.0,12
+2025-03-03,Chest,Barbell Bench Press,45.0,12
+2025-03-03,Chest,Incline Dumbbell Press,20.0,8
+2025-03-03,Chest,Incline Dumbbell Press,20.0,8
+2025-03-03,Chest,Incline Dumbbell Press,20.0,8
+2025-03-03,Chest,Dumbbell Fly,15.0,12
+2025-03-03,Chest,Dumbbell Fly,15.0,12
+2025-03-03,Chest,Dumbbell Fly,15.0,12
+2025-03-03,Chest,Push Ups,0.0,10
+2025-03-03,Chest,Push Ups,0.0,10
+2025-03-03,Chest,Push Ups,0.0,10
+2025-03-04,Legs,Barbell Squat,55.0,11
+2025-03-04,Legs,Barbell Squat,55.0,11
+2025-03-04,Legs,Barbell Squat,55.0,11
+2025-03-04,Legs,Leg Press,85.0,10
+2025-03-04,Legs,Leg Press,85.0,10
+2025-03-04,Legs,Leg Press,85.0,10
+2025-03-04,Legs,Romanian Deadlift,35.0,11
+2025-03-04,Legs,Romanian Deadlift,35.0,11
+2025-03-04,Legs,Romanian Deadlift,35.0,11
+2025-03-04,Legs,Leg Extension,25.0,11
+2025-03-04,Legs,Leg Extension,25.0,11
+2025-03-04,Legs,Leg Extension,25.0,11
+2025-03-04,Legs,Calf Raises,35.0,11
+2025-03-04,Legs,Calf Raises,35.0,11
+2025-03-04,Legs,Calf Raises,35.0,11
+2025-03-06,Back,Pull Ups,0.0,12
+2025-03-06,Back,Pull Ups,0.0,12
+2025-03-06,Back,Pull Ups,0.0,12
+2025-03-06,Back,Barbell Row,40.0,9
+2025-03-06,Back,Barbell Row,40.0,9
+2025-03-06,Back,Barbell Row,40.0,9
+2025-03-06,Back,Seated Cable Row,35.0,8
+2025-03-06,Back,Seated Cable Row,35.0,8
+2025-03-06,Back,Seated Cable Row,35.0,8
+2025-03-06,Back,Face Pulls,15.0,8
+2025-03-06,Back,Face Pulls,15.0,8
+2025-03-06,Back,Face Pulls,15.0,8
+2025-03-07,Shoulders,Overhead Press,25.0,12
+2025-03-07,Shoulders,Overhead Press,25.0,12
+2025-03-07,Shoulders,Overhead Press,25.0,12
+2025-03-07,Shoulders,Lateral Raise,10.0,11
+2025-03-07,Shoulders,Lateral Raise,10.0,11
+2025-03-07,Shoulders,Lateral Raise,10.0,11
+2025-03-07,Shoulders,Dumbbell Bicep Curl,13.0,11
+2025-03-07,Shoulders,Dumbbell Bicep Curl,13.0,11
+2025-03-07,Shoulders,Dumbbell Bicep Curl,13.0,11
+2025-03-07,Shoulders,Tricep Pushdown,20.0,11
+2025-03-07,Shoulders,Tricep Pushdown,20.0,11
+2025-03-07,Shoulders,Tricep Pushdown,20.0,11
+2025-03-07,Shoulders,Hammer Curls,12.0,9
+2025-03-07,Shoulders,Hammer Curls,12.0,9
+2025-03-07,Shoulders,Hammer Curls,12.0,9
+2025-03-10,Chest,Barbell Bench Press,45.0,11
+2025-03-10,Chest,Barbell Bench Press,45.0,11
+2025-03-10,Chest,Barbell Bench Press,45.0,11
+2025-03-10,Chest,Incline Dumbbell Press,20.0,9
+2025-03-10,Chest,Incline Dumbbell Press,20.0,9
+2025-03-10,Chest,Incline Dumbbell Press,20.0,9
+2025-03-10,Chest,Dumbbell Fly,15.0,12
+2025-03-10,Chest,Dumbbell Fly,15.0,12
+2025-03-10,Chest,Dumbbell Fly,15.0,12
+2025-03-10,Chest,Push Ups,0.0,10
+2025-03-10,Chest,Push Ups,0.0,10
+2025-03-10,Chest,Push Ups,0.0,10
+2025-03-11,Legs,Barbell Squat,55.0,8
+2025-03-11,Legs,Barbell Squat,55.0,8
+2025-03-11,Legs,Barbell Squat,55.0,8
+2025-03-11,Legs,Leg Press,85.0,11
+2025-03-11,Legs,Leg Press,85.0,11
+2025-03-11,Legs,Leg Press,85.0,11
+2025-03-11,Legs,Romanian Deadlift,35.0,10
+2025-03-11,Legs,Romanian Deadlift,35.0,10
+2025-03-11,Legs,Romanian Deadlift,35.0,10
+2025-03-11,Legs,Leg Extension,25.0,9
+2025-03-11,Legs,Leg Extension,25.0,9
+2025-03-11,Legs,Leg Extension,25.0,9
+2025-03-11,Legs,Calf Raises,35.0,10
+2025-03-11,Legs,Calf Raises,35.0,10
+2025-03-11,Legs,Calf Raises,35.0,10
+2025-03-13,Back,Pull Ups,0.0,10
+2025-03-13,Back,Pull Ups,0.0,10
+2025-03-13,Back,Pull Ups,0.0,10
+2025-03-13,Back,Barbell Row,40.0,8
+2025-03-13,Back,Barbell Row,40.0,8
+2025-03-13,Back,Barbell Row,40.0,8
+2025-03-13,Back,Seated Cable Row,35.0,10
+2025-03-13,Back,Seated Cable Row,35.0,10
+2025-03-13,Back,Seated Cable Row,35.0,10
+2025-03-13,Back,Face Pulls,15.0,9
+2025-03-13,Back,Face Pulls,15.0,9
+2025-03-13,Back,Face Pulls,15.0,9
+2025-03-14,Shoulders,Overhead Press,25.0,10
+2025-03-14,Shoulders,Overhead Press,25.0,10
+2025-03-14,Shoulders,Overhead Press,25.0,10
+2025-03-14,Shoulders,Lateral Raise,10.0,8
+2025-03-14,Shoulders,Lateral Raise,10.0,8
+2025-03-14,Shoulders,Lateral Raise,10.0,8
+2025-03-14,Shoulders,Dumbbell Bicep Curl,13.0,8
+2025-03-14,Shoulders,Dumbbell Bicep Curl,13.0,8
+2025-03-14,Shoulders,Dumbbell Bicep Curl,13.0,8
+2025-03-14,Shoulders,Tricep Pushdown,20.0,9
+2025-03-14,Shoulders,Tricep Pushdown,20.0,9
+2025-03-14,Shoulders,Tricep Pushdown,20.0,9
+2025-03-14,Shoulders,Hammer Curls,12.0,8
+2025-03-14,Shoulders,Hammer Curls,12.0,8
+2025-03-14,Shoulders,Hammer Curls,12.0,8
+2025-03-17,Chest,Barbell Bench Press,47.5,11
+2025-03-17,Chest,Barbell Bench Press,47.5,11
+2025-03-17,Chest,Barbell Bench Press,47.5,11
+2025-03-17,Chest,Incline Dumbbell Press,22.5,10
+2025-03-17,Chest,Incline Dumbbell Press,22.5,10
+2025-03-17,Chest,Incline Dumbbell Press,22.5,10
+2025-03-17,Chest,Dumbbell Fly,17.5,8
+2025-03-17,Chest,Dumbbell Fly,17.5,8
+2025-03-17,Chest,Dumbbell Fly,17.5,8
+2025-03-17,Chest,Push Ups,0.0,12
+2025-03-17,Chest,Push Ups,0.0,12
+2025-03-17,Chest,Push Ups,0.0,12
+2025-03-18,Legs,Barbell Squat,57.5,9
+2025-03-18,Legs,Barbell Squat,57.5,9
+2025-03-18,Legs,Barbell Squat,57.5,9
+2025-03-18,Legs,Leg Press,87.5,10
+2025-03-18,Legs,Leg Press,87.5,10
+2025-03-18,Legs,Leg Press,87.5,10
+2025-03-18,Legs,Romanian Deadlift,37.5,10
+2025-03-18,Legs,Romanian Deadlift,37.5,10
+2025-03-18,Legs,Romanian Deadlift,37.5,10
+2025-03-18,Legs,Leg Extension,27.5,12
+2025-03-18,Legs,Leg Extension,27.5,12
+2025-03-18,Legs,Leg Extension,27.5,12
+2025-03-18,Legs,Calf Raises,37.5,11
+2025-03-18,Legs,Calf Raises,37.5,11
+2025-03-18,Legs,Calf Raises,37.5,11
+2025-03-20,Back,Pull Ups,0.0,11
+2025-03-20,Back,Pull Ups,0.0,11
+2025-03-20,Back,Pull Ups,0.0,11
+2025-03-20,Back,Barbell Row,42.5,10
+2025-03-20,Back,Barbell Row,42.5,10
+2025-03-20,Back,Barbell Row,42.5,10
+2025-03-20,Back,Seated Cable Row,37.5,9
+2025-03-20,Back,Seated Cable Row,37.5,9
+2025-03-20,Back,Seated Cable Row,37.5,9
+2025-03-20,Back,Face Pulls,17.5,11
+2025-03-20,Back,Face Pulls,17.5,11
+2025-03-20,Back,Face Pulls,17.5,11
+2025-03-21,Shoulders,Overhead Press,27.5,9
+2025-03-21,Shoulders,Overhead Press,27.5,9
+2025-03-21,Shoulders,Overhead Press,27.5,9
+2025-03-21,Shoulders,Lateral Raise,12.5,8
+2025-03-21,Shoulders,Lateral Raise,12.5,8
+2025-03-21,Shoulders,Lateral Raise,12.5,8
+2025-03-21,Shoulders,Dumbbell Bicep Curl,15.5,12
+2025-03-21,Shoulders,Dumbbell Bicep Curl,15.5,12
+2025-03-21,Shoulders,Dumbbell Bicep Curl,15.5,12
+2025-03-21,Shoulders,Tricep Pushdown,22.5,9
+2025-03-21,Shoulders,Tricep Pushdown,22.5,9
+2025-03-21,Shoulders,Tricep Pushdown,22.5,9
+2025-03-21,Shoulders,Hammer Curls,14.5,10
+2025-03-21,Shoulders,Hammer Curls,14.5,10
+2025-03-21,Shoulders,Hammer Curls,14.5,10
+2025-03-24,Chest,Barbell Bench Press,47.5,11
+2025-03-24,Chest,Barbell Bench Press,47.5,11
+2025-03-24,Chest,Barbell Bench Press,47.5,11
+2025-03-24,Chest,Incline Dumbbell Press,22.5,9
+2025-03-24,Chest,Incline Dumbbell Press,22.5,9
+2025-03-24,Chest,Incline Dumbbell Press,22.5,9
+2025-03-24,Chest,Dumbbell Fly,17.5,12
+2025-03-24,Chest,Dumbbell Fly,17.5,12
+2025-03-24,Chest,Dumbbell Fly,17.5,12
+2025-03-24,Chest,Push Ups,0.0,11
+2025-03-24,Chest,Push Ups,0.0,11
+2025-03-24,Chest,Push Ups,0.0,11
+2025-03-25,Legs,Barbell Squat,57.5,8
+2025-03-25,Legs,Barbell Squat,57.5,8
+2025-03-25,Legs,Barbell Squat,57.5,8
+2025-03-25,Legs,Leg Press,87.5,9
+2025-03-25,Legs,Leg Press,87.5,9
+2025-03-25,Legs,Leg Press,87.5,9
+2025-03-25,Legs,Romanian Deadlift,37.5,11
+2025-03-25,Legs,Romanian Deadlift,37.5,11
+2025-03-25,Legs,Romanian Deadlift,37.5,11
+2025-03-25,Legs,Leg Extension,27.5,12
+2025-03-25,Legs,Leg Extension,27.5,12
+2025-03-25,Legs,Leg Extension,27.5,12
+2025-03-25,Legs,Calf Raises,37.5,12
+2025-03-25,Legs,Calf Raises,37.5,12
+2025-03-25,Legs,Calf Raises,37.5,12
+2025-03-27,Back,Pull Ups,0.0,11
+2025-03-27,Back,Pull Ups,0.0,11
+2025-03-27,Back,Pull Ups,0.0,11
+2025-03-27,Back,Barbell Row,42.5,9
+2025-03-27,Back,Barbell Row,42.5,9
+2025-03-27,Back,Barbell Row,42.5,9
+2025-03-27,Back,Seated Cable Row,37.5,10
+2025-03-27,Back,Seated Cable Row,37.5,10
+2025-03-27,Back,Seated Cable Row,37.5,10
+2025-03-27,Back,Face Pulls,17.5,8
+2025-03-27,Back,Face Pulls,17.5,8
+2025-03-27,Back,Face Pulls,17.5,8
+2025-03-28,Shoulders,Overhead Press,27.5,10
+2025-03-28,Shoulders,Overhead Press,27.5,10
+2025-03-28,Shoulders,Overhead Press,27.5,10
+2025-03-28,Shoulders,Lateral Raise,12.5,12
+2025-03-28,Shoulders,Lateral Raise,12.5,12
+2025-03-28,Shoulders,Lateral Raise,12.5,12
+2025-03-28,Shoulders,Dumbbell Bicep Curl,15.5,9
+2025-03-28,Shoulders,Dumbbell Bicep Curl,15.5,9
+2025-03-28,Shoulders,Dumbbell Bicep Curl,15.5,9
+2025-03-28,Shoulders,Tricep Pushdown,22.5,10
+2025-03-28,Shoulders,Tricep Pushdown,22.5,10
+2025-03-28,Shoulders,Tricep Pushdown,22.5,10
+2025-03-28,Shoulders,Hammer Curls,14.5,12
+2025-03-28,Shoulders,Hammer Curls,14.5,12
+2025-03-28,Shoulders,Hammer Curls,14.5,12
+2025-03-31,Chest,Barbell Bench Press,50.0,10
+2025-03-31,Chest,Barbell Bench Press,50.0,10
+2025-03-31,Chest,Barbell Bench Press,50.0,10
+2025-03-31,Chest,Incline Dumbbell Press,25.0,10
+2025-03-31,Chest,Incline Dumbbell Press,25.0,10
+2025-03-31,Chest,Incline Dumbbell Press,25.0,10
+2025-03-31,Chest,Dumbbell Fly,20.0,11
+2025-03-31,Chest,Dumbbell Fly,20.0,11
+2025-03-31,Chest,Dumbbell Fly,20.0,11
+2025-03-31,Chest,Push Ups,0.0,12
+2025-03-31,Chest,Push Ups,0.0,12
+2025-03-31,Chest,Push Ups,0.0,12
+2025-04-01,Legs,Barbell Squat,60.0,9
+2025-04-01,Legs,Barbell Squat,60.0,9
+2025-04-01,Legs,Barbell Squat,60.0,9
+2025-04-01,Legs,Leg Press,90.0,12
+2025-04-01,Legs,Leg Press,90.0,12
+2025-04-01,Legs,Leg Press,90.0,12
+2025-04-01,Legs,Romanian Deadlift,40.0,11
+2025-04-01,Legs,Romanian Deadlift,40.0,11
+2025-04-01,Legs,Romanian Deadlift,40.0,11
+2025-04-01,Legs,Leg Extension,30.0,8
+2025-04-01,Legs,Leg Extension,30.0,8
+2025-04-01,Legs,Leg Extension,30.0,8
+2025-04-01,Legs,Calf Raises,40.0,12
+2025-04-01,Legs,Calf Raises,40.0,12
+2025-04-01,Legs,Calf Raises,40.0,12
+2025-04-03,Back,Pull Ups,0.0,12
+2025-04-03,Back,Pull Ups,0.0,12
+2025-04-03,Back,Pull Ups,0.0,12
+2025-04-03,Back,Barbell Row,45.0,10
+2025-04-03,Back,Barbell Row,45.0,10
+2025-04-03,Back,Barbell Row,45.0,10
+2025-04-03,Back,Seated Cable Row,40.0,10
+2025-04-03,Back,Seated Cable Row,40.0,10
+2025-04-03,Back,Seated Cable Row,40.0,10
+2025-04-03,Back,Face Pulls,20.0,10
+2025-04-03,Back,Face Pulls,20.0,10
+2025-04-03,Back,Face Pulls,20.0,10
+2025-04-04,Shoulders,Overhead Press,30.0,10
+2025-04-04,Shoulders,Overhead Press,30.0,10
+2025-04-04,Shoulders,Overhead Press,30.0,10
+2025-04-04,Shoulders,Lateral Raise,15.0,12
+2025-04-04,Shoulders,Lateral Raise,15.0,12
+2025-04-04,Shoulders,Lateral Raise,15.0,12
+2025-04-04,Shoulders,Dumbbell Bicep Curl,18.0,9
+2025-04-04,Shoulders,Dumbbell Bicep Curl,18.0,9
+2025-04-04,Shoulders,Dumbbell Bicep Curl,18.0,9
+2025-04-04,Shoulders,Tricep Pushdown,25.0,9
+2025-04-04,Shoulders,Tricep Pushdown,25.0,9
+2025-04-04,Shoulders,Tricep Pushdown,25.0,9
+2025-04-04,Shoulders,Hammer Curls,17.0,11
+2025-04-04,Shoulders,Hammer Curls,17.0,11
+2025-04-04,Shoulders,Hammer Curls,17.0,11
+2025-04-07,Chest,Barbell Bench Press,50.0,9
+2025-04-07,Chest,Barbell Bench Press,50.0,9
+2025-04-07,Chest,Barbell Bench Press,50.0,9
+2025-04-07,Chest,Incline Dumbbell Press,25.0,12
+2025-04-07,Chest,Incline Dumbbell Press,25.0,12
+2025-04-07,Chest,Incline Dumbbell Press,25.0,12
+2025-04-07,Chest,Dumbbell Fly,20.0,10
+2025-04-07,Chest,Dumbbell Fly,20.0,10
+2025-04-07,Chest,Dumbbell Fly,20.0,10
+2025-04-07,Chest,Push Ups,0.0,12
+2025-04-07,Chest,Push Ups,0.0,12
+2025-04-07,Chest,Push Ups,0.0,12
+2025-04-08,Legs,Barbell Squat,60.0,10
+2025-04-08,Legs,Barbell Squat,60.0,10
+2025-04-08,Legs,Barbell Squat,60.0,10
+2025-04-08,Legs,Leg Press,90.0,12
+2025-04-08,Legs,Leg Press,90.0,12
+2025-04-08,Legs,Leg Press,90.0,12
+2025-04-08,Legs,Romanian Deadlift,40.0,9
+2025-04-08,Legs,Romanian Deadlift,40.0,9
+2025-04-08,Legs,Romanian Deadlift,40.0,9
+2025-04-08,Legs,Leg Extension,30.0,9
+2025-04-08,Legs,Leg Extension,30.0,9
+2025-04-08,Legs,Leg Extension,30.0,9
+2025-04-08,Legs,Calf Raises,40.0,9
+2025-04-08,Legs,Calf Raises,40.0,9
+2025-04-08,Legs,Calf Raises,40.0,9
+2025-04-10,Back,Pull Ups,0.0,12
+2025-04-10,Back,Pull Ups,0.0,12
+2025-04-10,Back,Pull Ups,0.0,12
+2025-04-10,Back,Barbell Row,45.0,12
+2025-04-10,Back,Barbell Row,45.0,12
+2025-04-10,Back,Barbell Row,45.0,12
+2025-04-10,Back,Seated Cable Row,40.0,12
+2025-04-10,Back,Seated Cable Row,40.0,12
+2025-04-10,Back,Seated Cable Row,40.0,12
+2025-04-10,Back,Face Pulls,20.0,8
+2025-04-10,Back,Face Pulls,20.0,8
+2025-04-10,Back,Face Pulls,20.0,8
+2025-04-11,Shoulders,Overhead Press,30.0,9
+2025-04-11,Shoulders,Overhead Press,30.0,9
+2025-04-11,Shoulders,Overhead Press,30.0,9
+2025-04-11,Shoulders,Lateral Raise,15.0,10
+2025-04-11,Shoulders,Lateral Raise,15.0,10
+2025-04-11,Shoulders,Lateral Raise,15.0,10
+2025-04-11,Shoulders,Dumbbell Bicep Curl,18.0,12
+2025-04-11,Shoulders,Dumbbell Bicep Curl,18.0,12
+2025-04-11,Shoulders,Dumbbell Bicep Curl,18.0,12
+2025-04-11,Shoulders,Tricep Pushdown,25.0,11
+2025-04-11,Shoulders,Tricep Pushdown,25.0,11
+2025-04-11,Shoulders,Tricep Pushdown,25.0,11
+2025-04-11,Shoulders,Hammer Curls,17.0,8
+2025-04-11,Shoulders,Hammer Curls,17.0,8
+2025-04-11,Shoulders,Hammer Curls,17.0,8
+2025-04-14,Chest,Barbell Bench Press,52.5,9
+2025-04-14,Chest,Barbell Bench Press,52.5,9
+2025-04-14,Chest,Barbell Bench Press,52.5,9
+2025-04-14,Chest,Incline Dumbbell Press,27.5,12
+2025-04-14,Chest,Incline Dumbbell Press,27.5,12
+2025-04-14,Chest,Incline Dumbbell Press,27.5,12
+2025-04-14,Chest,Dumbbell Fly,22.5,9
+2025-04-14,Chest,Dumbbell Fly,22.5,9
+2025-04-14,Chest,Dumbbell Fly,22.5,9
+2025-04-14,Chest,Push Ups,0.0,13
+2025-04-14,Chest,Push Ups,0.0,13
+2025-04-14,Chest,Push Ups,0.0,13
+2025-04-15,Legs,Barbell Squat,62.5,12
+2025-04-15,Legs,Barbell Squat,62.5,12
+2025-04-15,Legs,Barbell Squat,62.5,12
+2025-04-15,Legs,Leg Press,92.5,12
+2025-04-15,Legs,Leg Press,92.5,12
+2025-04-15,Legs,Leg Press,92.5,12
+2025-04-15,Legs,Romanian Deadlift,42.5,8
+2025-04-15,Legs,Romanian Deadlift,42.5,8
+2025-04-15,Legs,Romanian Deadlift,42.5,8
+2025-04-15,Legs,Leg Extension,32.5,8
+2025-04-15,Legs,Leg Extension,32.5,8
+2025-04-15,Legs,Leg Extension,32.5,8
+2025-04-15,Legs,Calf Raises,42.5,12
+2025-04-15,Legs,Calf Raises,42.5,12
+2025-04-15,Legs,Calf Raises,42.5,12
+2025-04-17,Back,Pull Ups,0.0,13
+2025-04-17,Back,Pull Ups,0.0,13
+2025-04-17,Back,Pull Ups,0.0,13
+2025-04-17,Back,Barbell Row,47.5,12
+2025-04-17,Back,Barbell Row,47.5,12
+2025-04-17,Back,Barbell Row,47.5,12
+2025-04-17,Back,Seated Cable Row,42.5,9
+2025-04-17,Back,Seated Cable Row,42.5,9
+2025-04-17,Back,Seated Cable Row,42.5,9
+2025-04-17,Back,Face Pulls,22.5,11
+2025-04-17,Back,Face Pulls,22.5,11
+2025-04-17,Back,Face Pulls,22.5,11
+2025-04-18,Shoulders,Overhead Press,32.5,12
+2025-04-18,Shoulders,Overhead Press,32.5,12
+2025-04-18,Shoulders,Overhead Press,32.5,12
+2025-04-18,Shoulders,Lateral Raise,17.5,8
+2025-04-18,Shoulders,Lateral Raise,17.5,8
+2025-04-18,Shoulders,Lateral Raise,17.5,8
+2025-04-18,Shoulders,Dumbbell Bicep Curl,20.5,12
+2025-04-18,Shoulders,Dumbbell Bicep Curl,20.5,12
+2025-04-18,Shoulders,Dumbbell Bicep Curl,20.5,12
+2025-04-18,Shoulders,Tricep Pushdown,27.5,9
+2025-04-18,Shoulders,Tricep Pushdown,27.5,9
+2025-04-18,Shoulders,Tricep Pushdown,27.5,9
+2025-04-18,Shoulders,Hammer Curls,19.5,12
+2025-04-18,Shoulders,Hammer Curls,19.5,12
+2025-04-18,Shoulders,Hammer Curls,19.5,12
+2025-04-21,Chest,Barbell Bench Press,52.5,9
+2025-04-21,Chest,Barbell Bench Press,52.5,9
+2025-04-21,Chest,Barbell Bench Press,52.5,9
+2025-04-21,Chest,Incline Dumbbell Press,27.5,8
+2025-04-21,Chest,Incline Dumbbell Press,27.5,8
+2025-04-21,Chest,Incline Dumbbell Press,27.5,8
+2025-04-21,Chest,Dumbbell Fly,22.5,10
+2025-04-21,Chest,Dumbbell Fly,22.5,10
+2025-04-21,Chest,Dumbbell Fly,22.5,10
+2025-04-21,Chest,Push Ups,0.0,13
+2025-04-21,Chest,Push Ups,0.0,13
+2025-04-21,Chest,Push Ups,0.0,13
+2025-04-22,Legs,Barbell Squat,62.5,10
+2025-04-22,Legs,Barbell Squat,62.5,10
+2025-04-22,Legs,Barbell Squat,62.5,10
+2025-04-22,Legs,Leg Press,92.5,9
+2025-04-22,Legs,Leg Press,92.5,9
+2025-04-22,Legs,Leg Press,92.5,9
+2025-04-22,Legs,Romanian Deadlift,42.5,9
+2025-04-22,Legs,Romanian Deadlift,42.5,9
+2025-04-22,Legs,Romanian Deadlift,42.5,9
+2025-04-22,Legs,Leg Extension,32.5,8
+2025-04-22,Legs,Leg Extension,32.5,8
+2025-04-22,Legs,Leg Extension,32.5,8
+2025-04-22,Legs,Calf Raises,42.5,9
+2025-04-22,Legs,Calf Raises,42.5,9
+2025-04-22,Legs,Calf Raises,42.5,9
+2025-04-24,Back,Pull Ups,0.0,13
+2025-04-24,Back,Pull Ups,0.0,13
+2025-04-24,Back,Pull Ups,0.0,13
+2025-04-24,Back,Barbell Row,47.5,10
+2025-04-24,Back,Barbell Row,47.5,10
+2025-04-24,Back,Barbell Row,47.5,10
+2025-04-24,Back,Seated Cable Row,42.5,11
+2025-04-24,Back,Seated Cable Row,42.5,11
+2025-04-24,Back,Seated Cable Row,42.5,11
+2025-04-24,Back,Face Pulls,22.5,10
+2025-04-24,Back,Face Pulls,22.5,10
+2025-04-24,Back,Face Pulls,22.5,10
+2025-04-25,Shoulders,Overhead Press,32.5,12
+2025-04-25,Shoulders,Overhead Press,32.5,12
+2025-04-25,Shoulders,Overhead Press,32.5,12
+2025-04-25,Shoulders,Lateral Raise,17.5,10
+2025-04-25,Shoulders,Lateral Raise,17.5,10
+2025-04-25,Shoulders,Lateral Raise,17.5,10
+2025-04-25,Shoulders,Dumbbell Bicep Curl,20.5,9
+2025-04-25,Shoulders,Dumbbell Bicep Curl,20.5,9
+2025-04-25,Shoulders,Dumbbell Bicep Curl,20.5,9
+2025-04-25,Shoulders,Tricep Pushdown,27.5,11
+2025-04-25,Shoulders,Tricep Pushdown,27.5,11
+2025-04-25,Shoulders,Tricep Pushdown,27.5,11
+2025-04-25,Shoulders,Hammer Curls,19.5,10
+2025-04-25,Shoulders,Hammer Curls,19.5,10
+2025-04-25,Shoulders,Hammer Curls,19.5,10
+2025-04-28,Chest,Barbell Bench Press,55.0,8
+2025-04-28,Chest,Barbell Bench Press,55.0,8
+2025-04-28,Chest,Barbell Bench Press,55.0,8
+2025-04-28,Chest,Incline Dumbbell Press,30.0,9
+2025-04-28,Chest,Incline Dumbbell Press,30.0,9
+2025-04-28,Chest,Incline Dumbbell Press,30.0,9
+2025-04-28,Chest,Dumbbell Fly,25.0,12
+2025-04-28,Chest,Dumbbell Fly,25.0,12
+2025-04-28,Chest,Dumbbell Fly,25.0,12
+2025-04-28,Chest,Push Ups,0.0,14
+2025-04-28,Chest,Push Ups,0.0,14
+2025-04-28,Chest,Push Ups,0.0,14
+2025-04-29,Legs,Barbell Squat,65.0,9
+2025-04-29,Legs,Barbell Squat,65.0,9
+2025-04-29,Legs,Barbell Squat,65.0,9
+2025-04-29,Legs,Leg Press,95.0,9
+2025-04-29,Legs,Leg Press,95.0,9
+2025-04-29,Legs,Leg Press,95.0,9
+2025-04-29,Legs,Romanian Deadlift,45.0,11
+2025-04-29,Legs,Romanian Deadlift,45.0,11
+2025-04-29,Legs,Romanian Deadlift,45.0,11
+2025-04-29,Legs,Leg Extension,35.0,8
+2025-04-29,Legs,Leg Extension,35.0,8
+2025-04-29,Legs,Leg Extension,35.0,8
+2025-04-29,Legs,Calf Raises,45.0,10
+2025-04-29,Legs,Calf Raises,45.0,10
+2025-04-29,Legs,Calf Raises,45.0,10
+2025-05-01,Back,Pull Ups,0.0,14
+2025-05-01,Back,Pull Ups,0.0,14
+2025-05-01,Back,Pull Ups,0.0,14
+2025-05-01,Back,Barbell Row,50.0,10
+2025-05-01,Back,Barbell Row,50.0,10
+2025-05-01,Back,Barbell Row,50.0,10
+2025-05-01,Back,Seated Cable Row,45.0,12
+2025-05-01,Back,Seated Cable Row,45.0,12
+2025-05-01,Back,Seated Cable Row,45.0,12
+2025-05-01,Back,Face Pulls,25.0,9
+2025-05-01,Back,Face Pulls,25.0,9
+2025-05-01,Back,Face Pulls,25.0,9
+2025-05-02,Shoulders,Overhead Press,35.0,10
+2025-05-02,Shoulders,Overhead Press,35.0,10
+2025-05-02,Shoulders,Overhead Press,35.0,10
+2025-05-02,Shoulders,Lateral Raise,20.0,10
+2025-05-02,Shoulders,Lateral Raise,20.0,10
+2025-05-02,Shoulders,Lateral Raise,20.0,10
+2025-05-02,Shoulders,Dumbbell Bicep Curl,23.0,11
+2025-05-02,Shoulders,Dumbbell Bicep Curl,23.0,11
+2025-05-02,Shoulders,Dumbbell Bicep Curl,23.0,11
+2025-05-02,Shoulders,Tricep Pushdown,30.0,11
+2025-05-02,Shoulders,Tricep Pushdown,30.0,11
+2025-05-02,Shoulders,Tricep Pushdown,30.0,11
+2025-05-02,Shoulders,Hammer Curls,22.0,8
+2025-05-02,Shoulders,Hammer Curls,22.0,8
+2025-05-02,Shoulders,Hammer Curls,22.0,8
+2025-05-05,Chest,Barbell Bench Press,55.0,8
+2025-05-05,Chest,Barbell Bench Press,55.0,8
+2025-05-05,Chest,Barbell Bench Press,55.0,8
+2025-05-05,Chest,Incline Dumbbell Press,30.0,10
+2025-05-05,Chest,Incline Dumbbell Press,30.0,10
+2025-05-05,Chest,Incline Dumbbell Press,30.0,10
+2025-05-05,Chest,Dumbbell Fly,25.0,8
+2025-05-05,Chest,Dumbbell Fly,25.0,8
+2025-05-05,Chest,Dumbbell Fly,25.0,8
+2025-05-05,Chest,Push Ups,0.0,14
+2025-05-05,Chest,Push Ups,0.0,14
+2025-05-05,Chest,Push Ups,0.0,14
+2025-05-06,Legs,Barbell Squat,65.0,11
+2025-05-06,Legs,Barbell Squat,65.0,11
+2025-05-06,Legs,Barbell Squat,65.0,11
+2025-05-06,Legs,Leg Press,95.0,12
+2025-05-06,Legs,Leg Press,95.0,12
+2025-05-06,Legs,Leg Press,95.0,12
+2025-05-06,Legs,Romanian Deadlift,45.0,8
+2025-05-06,Legs,Romanian Deadlift,45.0,8
+2025-05-06,Legs,Romanian Deadlift,45.0,8
+2025-05-06,Legs,Leg Extension,35.0,10
+2025-05-06,Legs,Leg Extension,35.0,10
+2025-05-06,Legs,Leg Extension,35.0,10
+2025-05-06,Legs,Calf Raises,45.0,12
+2025-05-06,Legs,Calf Raises,45.0,12
+2025-05-06,Legs,Calf Raises,45.0,12
+2025-05-08,Back,Pull Ups,0.0,14
+2025-05-08,Back,Pull Ups,0.0,14
+2025-05-08,Back,Pull Ups,0.0,14
+2025-05-08,Back,Barbell Row,50.0,9
+2025-05-08,Back,Barbell Row,50.0,9
+2025-05-08,Back,Barbell Row,50.0,9
+2025-05-08,Back,Seated Cable Row,45.0,8
+2025-05-08,Back,Seated Cable Row,45.0,8
+2025-05-08,Back,Seated Cable Row,45.0,8
+2025-05-08,Back,Face Pulls,25.0,9
+2025-05-08,Back,Face Pulls,25.0,9
+2025-05-08,Back,Face Pulls,25.0,9
+2025-05-09,Shoulders,Overhead Press,35.0,9
+2025-05-09,Shoulders,Overhead Press,35.0,9
+2025-05-09,Shoulders,Overhead Press,35.0,9
+2025-05-09,Shoulders,Lateral Raise,20.0,11
+2025-05-09,Shoulders,Lateral Raise,20.0,11
+2025-05-09,Shoulders,Lateral Raise,20.0,11
+2025-05-09,Shoulders,Dumbbell Bicep Curl,23.0,11
+2025-05-09,Shoulders,Dumbbell Bicep Curl,23.0,11
+2025-05-09,Shoulders,Dumbbell Bicep Curl,23.0,11
+2025-05-09,Shoulders,Tricep Pushdown,30.0,10
+2025-05-09,Shoulders,Tricep Pushdown,30.0,10
+2025-05-09,Shoulders,Tricep Pushdown,30.0,10
+2025-05-09,Shoulders,Hammer Curls,22.0,9
+2025-05-09,Shoulders,Hammer Curls,22.0,9
+2025-05-09,Shoulders,Hammer Curls,22.0,9
+2025-05-12,Chest,Barbell Bench Press,57.5,8
+2025-05-12,Chest,Barbell Bench Press,57.5,8
+2025-05-12,Chest,Barbell Bench Press,57.5,8
+2025-05-12,Chest,Incline Dumbbell Press,32.5,11
+2025-05-12,Chest,Incline Dumbbell Press,32.5,11
+2025-05-12,Chest,Incline Dumbbell Press,32.5,11
+2025-05-12,Chest,Dumbbell Fly,27.5,11
+2025-05-12,Chest,Dumbbell Fly,27.5,11
+2025-05-12,Chest,Dumbbell Fly,27.5,11
+2025-05-12,Chest,Push Ups,0.0,15
+2025-05-12,Chest,Push Ups,0.0,15
+2025-05-12,Chest,Push Ups,0.0,15
+2025-05-13,Legs,Barbell Squat,67.5,11
+2025-05-13,Legs,Barbell Squat,67.5,11
+2025-05-13,Legs,Barbell Squat,67.5,11
+2025-05-13,Legs,Leg Press,97.5,9
+2025-05-13,Legs,Leg Press,97.5,9
+2025-05-13,Legs,Leg Press,97.5,9
+2025-05-13,Legs,Romanian Deadlift,47.5,9
+2025-05-13,Legs,Romanian Deadlift,47.5,9
+2025-05-13,Legs,Romanian Deadlift,47.5,9
+2025-05-13,Legs,Leg Extension,37.5,8
+2025-05-13,Legs,Leg Extension,37.5,8
+2025-05-13,Legs,Leg Extension,37.5,8
+2025-05-13,Legs,Calf Raises,47.5,12
+2025-05-13,Legs,Calf Raises,47.5,12
+2025-05-13,Legs,Calf Raises,47.5,12
+2025-05-15,Back,Pull Ups,0.0,15
+2025-05-15,Back,Pull Ups,0.0,15
+2025-05-15,Back,Pull Ups,0.0,15
+2025-05-15,Back,Barbell Row,52.5,8
+2025-05-15,Back,Barbell Row,52.5,8
+2025-05-15,Back,Barbell Row,52.5,8
+2025-05-15,Back,Seated Cable Row,47.5,11
+2025-05-15,Back,Seated Cable Row,47.5,11
+2025-05-15,Back,Seated Cable Row,47.5,11
+2025-05-15,Back,Face Pulls,27.5,12
+2025-05-15,Back,Face Pulls,27.5,12
+2025-05-15,Back,Face Pulls,27.5,12
+2025-05-16,Shoulders,Overhead Press,37.5,12
+2025-05-16,Shoulders,Overhead Press,37.5,12
+2025-05-16,Shoulders,Overhead Press,37.5,12
+2025-05-16,Shoulders,Lateral Raise,22.5,8
+2025-05-16,Shoulders,Lateral Raise,22.5,8
+2025-05-16,Shoulders,Lateral Raise,22.5,8
+2025-05-16,Shoulders,Dumbbell Bicep Curl,25.5,10
+2025-05-16,Shoulders,Dumbbell Bicep Curl,25.5,10
+2025-05-16,Shoulders,Dumbbell Bicep Curl,25.5,10
+2025-05-16,Shoulders,Tricep Pushdown,32.5,11
+2025-05-16,Shoulders,Tricep Pushdown,32.5,11
+2025-05-16,Shoulders,Tricep Pushdown,32.5,11
+2025-05-16,Shoulders,Hammer Curls,24.5,10
+2025-05-16,Shoulders,Hammer Curls,24.5,10
+2025-05-16,Shoulders,Hammer Curls,24.5,10
+2025-05-19,Chest,Barbell Bench Press,57.5,11
+2025-05-19,Chest,Barbell Bench Press,57.5,11
+2025-05-19,Chest,Barbell Bench Press,57.5,11
+2025-05-19,Chest,Incline Dumbbell Press,32.5,9
+2025-05-19,Chest,Incline Dumbbell Press,32.5,9
+2025-05-19,Chest,Incline Dumbbell Press,32.5,9
+2025-05-19,Chest,Dumbbell Fly,27.5,11
+2025-05-19,Chest,Dumbbell Fly,27.5,11
+2025-05-19,Chest,Dumbbell Fly,27.5,11
+2025-05-19,Chest,Push Ups,0.0,15
+2025-05-19,Chest,Push Ups,0.0,15
+2025-05-19,Chest,Push Ups,0.0,15
+2025-05-20,Legs,Barbell Squat,67.5,8
+2025-05-20,Legs,Barbell Squat,67.5,8
+2025-05-20,Legs,Barbell Squat,67.5,8
+2025-05-20,Legs,Leg Press,97.5,12
+2025-05-20,Legs,Leg Press,97.5,12
+2025-05-20,Legs,Leg Press,97.5,12
+2025-05-20,Legs,Romanian Deadlift,47.5,10
+2025-05-20,Legs,Romanian Deadlift,47.5,10
+2025-05-20,Legs,Romanian Deadlift,47.5,10
+2025-05-20,Legs,Leg Extension,37.5,12
+2025-05-20,Legs,Leg Extension,37.5,12
+2025-05-20,Legs,Leg Extension,37.5,12
+2025-05-20,Legs,Calf Raises,47.5,11
+2025-05-20,Legs,Calf Raises,47.5,11
+2025-05-20,Legs,Calf Raises,47.5,11
+2025-05-22,Back,Pull Ups,0.0,15
+2025-05-22,Back,Pull Ups,0.0,15
+2025-05-22,Back,Pull Ups,0.0,15
+2025-05-22,Back,Barbell Row,52.5,11
+2025-05-22,Back,Barbell Row,52.5,11
+2025-05-22,Back,Barbell Row,52.5,11
+2025-05-22,Back,Seated Cable Row,47.5,11
+2025-05-22,Back,Seated Cable Row,47.5,11
+2025-05-22,Back,Seated Cable Row,47.5,11
+2025-05-22,Back,Face Pulls,27.5,11
+2025-05-22,Back,Face Pulls,27.5,11
+2025-05-22,Back,Face Pulls,27.5,11
+2025-05-23,Shoulders,Overhead Press,37.5,9
+2025-05-23,Shoulders,Overhead Press,37.5,9
+2025-05-23,Shoulders,Overhead Press,37.5,9
+2025-05-23,Shoulders,Lateral Raise,22.5,9
+2025-05-23,Shoulders,Lateral Raise,22.5,9
+2025-05-23,Shoulders,Lateral Raise,22.5,9
+2025-05-23,Shoulders,Dumbbell Bicep Curl,25.5,9
+2025-05-23,Shoulders,Dumbbell Bicep Curl,25.5,9
+2025-05-23,Shoulders,Dumbbell Bicep Curl,25.5,9
+2025-05-23,Shoulders,Tricep Pushdown,32.5,9
+2025-05-23,Shoulders,Tricep Pushdown,32.5,9
+2025-05-23,Shoulders,Tricep Pushdown,32.5,9
+2025-05-23,Shoulders,Hammer Curls,24.5,10
+2025-05-23,Shoulders,Hammer Curls,24.5,10
+2025-05-23,Shoulders,Hammer Curls,24.5,10
+2025-06-24,Chest,Dumbbell Fly,5.0,12

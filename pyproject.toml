@@ -1,0 +1,13 @@
+[tool.briefcase]
+project_name = "IronTracker"
+bundle = "com.mihir.irontracker"
+version = "1.0.0"
+author = "Mihir Padekar"
+description = "Streamlit-based fitness logging app"
+license = { file = "LICENSE" }
+requires = ["pandas", "matplotlib", "pywebview", "openpyxl","typing-extensions<5"]
+
+[tool.briefcase.app.irontracker]
+formal_name = "IronTracker"
+sources = ["irontracker"]
+entry_point = "irontracker.run_all:main"

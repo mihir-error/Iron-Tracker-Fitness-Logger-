@@ -1,0 +1,6 @@
+# Generated 2025-06-19 13:38:46.571006
+pandas
+matplotlib
+pywebview
+openpyxl
+typing-extensions<5
