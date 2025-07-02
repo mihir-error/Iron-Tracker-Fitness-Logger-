@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Briefcase-Version: 0.3.23
-Name: irontracker
-Formal-Name: IronTracker
-App-ID: com.mihir.irontracker.irontracker
-Version: 1.0.0
-Download-URL: 
-Author: Mihir Padekar
-Summary: Streamlit-based fitness logging app
