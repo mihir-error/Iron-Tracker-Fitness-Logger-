@@ -35,7 +35,7 @@ def load_data():
     """
     data_file_abs_path = get_data_file_path()
     try:
-        df = pd.read_csv(data_file_abs_path)
+        df = pd.read_csv(data_file_abs_path, sep=",")
         # Ensure 'date' column is consistently a string for comparison
         df['date'] = df['date'].astype(str)
         # Ensure 'weight' and 'reps' are numeric, handling potential errors and filling NaNs
